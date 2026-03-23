@@ -1,0 +1,516 @@
+[21:53:04] 🔍 Generating research draft...
+[21:53:49] Initial Score: 7
+[21:53:49] 🔁 Iteration 1: Improving content...
+[21:54:23] New Score: 7
+[21:54:23] 📄 Generating PDF...
+[21:54:23] 📊 Generating PPT...
+[21:54:23] ✅ Done!
+[22:27:13] 🔍 Generating research draft...
+[22:27:42] Initial Score: 7
+[22:27:42] 🔁 Iteration 1: Improving content...
+[22:27:58] New Score: 7
+[22:27:58] 📄 Generating PDF...
+[22:27:58] 📊 Generating PPT...
+[22:27:58] ✅ Done!
+[22:35:02] 🔍 Generating research draft...
+[22:35:29] 📊 Initial Score: 7
+[22:35:29] 🔁 Iteration 1: Improving content...
+[22:35:40]    → New Score: 7
+[22:35:40] 📄 Generating PDF...
+[22:35:40] 📊 Generating PPT...
+[22:35:40] ✅ Done!
+[22:51:07] 🔍 Searching web sources...
+[22:51:07] 🌐 Scraping top articles...
+[22:51:07] 🧠 Generating structured research report...
+[22:51:36] 📊 Initial Score: 7
+[22:51:36] 📊 Initial Score: 7
+[22:51:36] 
+🔁 Iteration 1
+[22:51:36] 🛠️ Reviewing content and suggesting improvements...
+[22:51:54] 🧠 Suggested Improvements:
+[22:51:54] Consider broadening the title to encompass more sports or specify that these are major tournaments.
+Incorporate statistics or anecdotal evidence to enrich each tournament's description.
+Vary the sentence structure to maintain reader engagement and reduce redundancy.
+Add a conclusion that discusses the overall impact of sporting tournaments in India on talent development and international representation.
+[22:51:55] 📊 New Score: 7
+[22:51:55] ⛔ No significant improvement → stopping loop
+[22:51:55] 
+📈 Final Score: 7
+[22:51:55] 🔁 Total Iterations: 0
+[22:51:55] 📄 Generating PDF...
+[22:51:55] 📊 Generating PPT...
+[22:51:55] ✅ Done!
+[23:34:04] 🔍 Searching web sources...
+[23:34:04] 🌐 Scraping top articles...
+[23:34:04] 🧠 Generating structured research report...
+[23:34:23] 📊 Initial Score: 7
+[23:34:23] 📊 Initial Score: 7
+[23:34:23] 
+🔁 Iteration 1
+[23:34:23] 🛠️ Reviewing content and suggesting improvements...
+[23:34:37] 🧠 Suggested Improvements:
+[23:34:37] Revise the title to make it more engaging, e.g., 'Evaluating the Most Effective COVID-19 Vaccines Available'.
+Incorporate citations or references to scientific studies or data for claims about vaccine efficacy and safety.
+Expand bullet points to include more details about the real-world performance of the vaccines.
+Include a section on vaccine distribution and accessibility along with potential barriers.
+Add a discussion on vaccine hesitancy and the importance of public education.
+[23:34:38] 📊 New Score: 7
+[23:34:38] ⚠️ No improvement → trying a different refinement strategy...
+[23:34:38] 
+🔁 Iteration 2
+[23:34:38] 🛠️ Reviewing content and suggesting improvements...
+[23:34:52] 🧠 Suggested Improvements:
+[23:34:52] ⚠️ Could not parse improvements
+[23:34:53] 📊 New Score: 7
+[23:34:53] ⚠️ No improvement → trying a different refinement strategy...
+[23:34:53] 
+🔁 Iteration 3
+[23:34:53] 🛠️ Reviewing content and suggesting improvements...
+[23:35:09] 🧠 Suggested Improvements:
+[23:35:09] ⚠️ Could not parse improvements
+[23:35:10] 📊 New Score: 7
+[23:35:10] ⚠️ No improvement → trying a different refinement strategy...
+[23:35:10] 
+📈 Final Score: 7
+[23:35:10] 🔁 Total Iterations: 0
+[23:35:10] 📄 Generating PDF...
+[23:35:10] 📊 Generating PPT...
+[23:35:11] ✅ Done!
+[23:39:23] 🔍 Searching web sources...
+[23:39:23] 🌐 Scraping top articles...
+[23:39:23] 🧠 Generating structured research report...
+[23:39:41] 📊 Initial Score: 7.5
+[23:39:41] 📊 Initial Score: 7.5
+[23:39:41] 
+🔁 Iteration 1
+[23:39:41] 🛠️ Reviewing content and applying improvements...
+[23:40:01] 🧠 Suggested Improvements:
+[23:40:01]    • Add more detailed statistics or data to support claims about vaccine efficacy and impact.
+[23:40:01]    • Include recent developments or updates in vaccine technology and distribution.
+[23:40:01]    • Enhance the conclusion with a call to action or recommendations for individuals and communities.
+[23:40:02] 📊 New Score: 6.5
+[23:40:02] ⚠️ No improvement → forcing stronger rewrite...
+[23:40:02] 
+🔁 Iteration 2
+[23:40:02] 🛠️ Reviewing content and applying improvements...
+[23:40:30] 🧠 Suggested Improvements:
+[23:40:30]    • The content lacks citations for the statistics and claims made, which could undermine its credibility.
+[23:40:30]    • Some sections could benefit from clearer transitions and connections between ideas to enhance readability.
+[23:40:30]    • The bullet points should be more concise and focused on key takeaways to improve clarity.
+[23:40:30]    • The conclusion could be strengthened by summarizing the key points discussed in the sections.
+[23:40:31] 📊 New Score: 6.5
+[23:40:31] ⚠️ No improvement → forcing stronger rewrite...
+[23:40:31] 
+🔁 Iteration 3
+[23:40:31] 🛠️ Reviewing content and applying improvements...
+[23:40:50] 🧠 Suggested Improvements:
+[23:40:50]    • The content lacks a clear introduction and conclusion that ties all sections together.
+[23:40:50]    • Some sections could benefit from more detailed explanations or examples.
+[23:40:50]    • The bullet points should be more concise and consistent in structure.
+[23:40:50]    • The use of technical terms should be explained for a broader audience.
+[23:40:51] 📊 New Score: 6.5
+[23:40:51] ⚠️ No improvement → forcing stronger rewrite...
+[23:40:51] 
+🔁 Iteration 4
+[23:40:51] 🛠️ Reviewing content and applying improvements...
+[23:41:13] 🧠 Suggested Improvements:
+[23:41:13]    • The title could be more engaging and informative.
+[23:41:13]    • Some sections lack a clear transition or connection to the next topic.
+[23:41:13]    • The content could benefit from more concise language and clearer explanations.
+[23:41:13]    • The bullet points should be more uniform in structure and detail.
+[23:41:14] 📊 New Score: 6.5
+[23:41:14] ⚠️ No improvement → forcing stronger rewrite...
+[23:41:14] 
+📈 Final Score: 7.5
+[23:41:14] 🔁 Total Iterations: 4
+[23:41:14] 📄 Generating PDF...
+[00:06:25] 🔍 Searching web sources...
+[00:06:25] 🌐 Scraping top articles...
+[00:06:25] 🧠 Generating structured research report...
+[00:06:45] 📊 Initial Score: 6.5
+[00:06:45] 📊 Initial Score: 6.5
+[00:06:45] 
+🔁 Iteration 1
+[00:06:45] 🛠️ Reviewing content and applying improvements...
+[00:07:00] 🧠 Suggested Improvements:
+[00:07:00]    • The introduction could be more engaging by providing a hook or interesting fact about the IPL.
+[00:07:00]    • The performance metrics section lacks clarity on how the metrics are weighted or prioritized.
+[00:07:00]    • The financial revenue section should include specific figures or percentages to support claims.
+[00:07:00]    • The fan base and engagement section could benefit from statistics or examples of fan initiatives.
+[00:07:00]    • The conclusion should summarize key points more effectively and suggest implications for the future.
+[00:07:01] 📊 New Score: 6.5
+[00:07:01] ⚠️ No improvement → forcing stronger rewrite...
+[00:07:01] 
+🔁 Iteration 2
+[00:07:01] 🛠️ Reviewing content and applying improvements...
+[00:07:18] 🧠 Suggested Improvements:
+[00:07:18]    • ⚠️ Model did not return valid JSON, skipping improvement
+[00:07:19] 📊 New Score: 6.5
+[00:07:19] ⚠️ No improvement → forcing stronger rewrite...
+[00:07:19] 
+🔁 Iteration 3
+[00:07:19] 🛠️ Reviewing content and applying improvements...
+[00:07:36] 🧠 Suggested Improvements:
+[00:07:36]    • ⚠️ Model did not return valid JSON, skipping improvement
+[00:07:37] 📊 New Score: 6.5
+[00:07:37] ⚠️ No improvement → forcing stronger rewrite...
+[00:07:37] 
+🔁 Iteration 4
+[00:07:37] 🛠️ Reviewing content and applying improvements...
+[00:07:56] 🧠 Suggested Improvements:
+[00:07:56]    • ⚠️ Model did not return valid JSON, skipping improvement
+[00:07:57] 📊 New Score: 6.5
+[00:07:57] ⚠️ No improvement → forcing stronger rewrite...
+[00:07:57] 
+📈 Final Score: 6.5
+[00:07:57] 🔁 Total Iterations: 4
+[00:07:57] 📄 Generating PDF...
+[00:51:30] 🔍 Searching web sources...
+[00:51:30] 🌐 Scraping top articles...
+[00:51:30] 🧠 Generating structured research report...
+[00:51:49] 📊 Initial Score: 6.5
+[00:51:49] 
+🔁 Iteration 1
+[00:51:49] 🛠️ Reviewing content and applying improvements...
+[00:52:06] 🧠 Suggested Improvements:
+[00:52:06]    • The introduction lacks a clear hook to engage the reader.
+[00:52:06]    • Some sections have empty bullet points, which should be filled with relevant information.
+[00:52:06]    • The content could benefit from more detailed analysis of each team's strengths and weaknesses.
+[00:52:07] 📊 New Score: 6.5
+[00:52:07] ⚠️ No improvement → forcing stronger rewrite...
+[00:52:07] 
+🔁 Iteration 2
+[00:52:07] 🛠️ Reviewing content and applying improvements...
+[00:52:26] 🧠 Suggested Improvements:
+[00:52:26]    • Clarify the timeline of the IPL season for better understanding.
+[00:52:26]    • Enhance the analysis of each team's strengths and weaknesses for depth.
+[00:52:26]    • Ensure consistent formatting for bullet points across all sections.
+[00:52:27] 📊 New Score: 6.5
+[00:52:27] ⚠️ No improvement → forcing stronger rewrite...
+[00:52:27] 
+🔁 Iteration 3
+[00:52:27] 🛠️ Reviewing content and applying improvements...
+[00:52:49] 🧠 Suggested Improvements:
+[00:52:49]    • The introduction could provide more context on the significance of IPL and its impact on cricket.
+[00:52:49]    • The team summaries should include recent performance metrics or statistics to provide a clearer picture of their strengths and weaknesses.
+[00:52:49]    • The content could benefit from a more engaging tone to attract readers' interest.
+[00:52:50] 📊 New Score: 6.5
+[00:52:50] ⚠️ No improvement → forcing stronger rewrite...
+[00:52:50] 
+🔁 Iteration 4
+[00:52:50] 🛠️ Reviewing content and applying improvements...
+[00:53:18] 🧠 Suggested Improvements:
+[00:53:18]    • The title could be more engaging and specific to attract readers.
+[00:53:18]    • Some sections lack depth and could benefit from additional statistics or historical context.
+[00:53:18]    • The content could be more concise in certain areas to improve readability.
+[00:53:18]    • Ensure consistency in terminology and phrasing throughout the document.
+[00:53:19] 📊 New Score: 6.5
+[00:53:19] ⚠️ No improvement → forcing stronger rewrite...
+[00:53:19] 
+📈 Final Score: 6.5
+[00:53:19] 🔁 Total Iterations: 4
+[00:53:19] 📄 Generating PDF...
+[00:53:19] 📊 Generating PPT...
+[00:53:19] ✅ Done!
+[01:05:39] 🔍 Searching web sources...
+[01:05:39] 🌐 Scraping top articles...
+[01:05:39] 🧠 Generating structured research report...
+[01:05:59] 📊 Initial Score: 7.5
+[01:05:59] 
+🔁 Iteration 1
+[01:05:59] 🛠️ Reviewing content and applying improvements...
+[01:06:16] 🧠 Suggested Improvements:
+[01:06:16]    • The title should reflect the dynamic nature of the tournament rather than just listing teams.
+[01:06:16]    • Some sections lack depth and could benefit from more detailed analysis or statistics.
+[01:06:16]    • Ensure consistency in the naming of teams and players throughout the content.
+[01:06:17] 📊 New Score: 7.5
+[01:06:17] ⚠️ No improvement → forcing stronger rewrite...
+[01:06:17] 
+🔁 Iteration 2
+[01:06:17] 🛠️ Reviewing content and applying improvements...
+[01:06:34] 🧠 Suggested Improvements:
+[01:06:34]    • The introduction could provide more context about the IPL's significance and its history to engage readers better.
+[01:06:34]    • Some sections lack specific examples or statistics that could strengthen the arguments made about team strengths and strategies.
+[01:06:34]    • The conclusion could be more impactful by summarizing key points and emphasizing the excitement of the upcoming season.
+[01:06:35] 📊 New Score: 7.5
+[01:06:35] ⚠️ No improvement → forcing stronger rewrite...
+[01:06:35] 
+🔁 Iteration 3
+[01:06:35] 🛠️ Reviewing content and applying improvements...
+[01:06:56] 🧠 Suggested Improvements:
+[01:06:56]    • The introduction could be more engaging by highlighting key players or rivalries.
+[01:06:56]    • Some sections lack specific examples or statistics to support claims.
+[01:06:56]    • The conclusion could summarize key points more effectively and create anticipation.
+[01:06:57] 📊 New Score: 7.5
+[01:06:57] ⚠️ No improvement → forcing stronger rewrite...
+[01:06:57] 
+🔁 Iteration 4
+[01:06:57] 🛠️ Reviewing content and applying improvements...
+[01:07:13] 🧠 Suggested Improvements:
+[01:07:13]    • Enhance clarity and conciseness in the content.
+[01:07:13]    • Ensure consistent tone and style across all sections.
+[01:07:13]    • Add more specific examples or statistics to support claims.
+[01:07:13]    • Improve transitions between sections for better flow.
+[01:07:15] 📊 New Score: 7.5
+[01:07:15] ⚠️ No improvement → forcing stronger rewrite...
+[01:07:15] 
+📈 Final Score: 7.5
+[01:07:15] 🔁 Total Iterations: 4
+[01:07:15] 📄 Generating PDF...
+[01:07:15] 📊 Generating PPT...
+[01:07:15] ✅ Done!
+[01:12:40] 🔍 Searching web sources...
+[01:12:40] 🌐 Scraping top articles...
+[01:12:40] 🧠 Generating structured research report...
+[01:12:59] 📊 Initial Score: 7.1
+[01:12:59] 📐 Initial Breakdown: clarity=8.0, structure=7.5, depth=6.0, usefulness=7.0
+[01:12:59] 🧪 Evaluator Issues:
+[01:12:59]    • Lacks in-depth analysis of team strategies and player statistics.
+[01:12:59]    • Some sections feel repetitive in discussing team strengths.
+[01:12:59] 
+🔁 Iteration 1
+[01:12:59] 🛠️ Reviewing content and applying improvements...
+[01:13:15] 🧠 Suggested Improvements:
+[01:13:15]    • Enhance the structure by providing a clear introduction and conclusion for better flow.
+[01:13:15]    • Add more specific statistics and recent achievements to strengthen the analysis of each team.
+[01:13:15]    • Include insights on coaching strategies and player development to provide a deeper understanding of each team's potential.
+[01:13:17] 📊 New Score: 7.6
+[01:13:17] 📐 New Breakdown: clarity=8.5, structure=9.0, depth=6.5, usefulness=7.5
+[01:13:17] 🧪 Evaluator Issues:
+[01:13:17]    • Depth of analysis is lacking in some sections.
+[01:13:17]    • Limited discussion on team strategies beyond player performance.
+[01:13:17] ✅ Improvement accepted (+0.5)
+[01:13:17] 
+🔁 Iteration 2
+[01:13:17] 🛠️ Reviewing content and applying improvements...
+[01:13:41] 🧠 Suggested Improvements:
+[01:13:41]    • Provide more specific statistics and examples to support claims about team performances.
+[01:13:41]    • Enhance the analysis of each team's strengths and weaknesses with actionable insights and strategies for improvement.
+[01:13:43] 📊 New Score: 8.2
+[01:13:43] 📐 New Breakdown: clarity=8.5, structure=9.0, depth=7.0, usefulness=8.0
+[01:13:43] 🧪 Evaluator Issues:
+[01:13:43]    • Depth of analysis could be improved, especially in player development.
+[01:13:43]    • Some sections lack detailed statistical comparisons.
+[01:13:43] ✅ Improvement accepted (+0.6)
+[01:13:43] 🎯 Target score reached → stopping early
+[01:13:43] 
+📈 Final Score: 8.2
+[01:13:43] 🔁 Total Iterations: 2
+[01:13:43] 📄 Generating PDF...
+[01:13:43] 📊 Generating PPT...
+[01:13:43] ✅ Done!
+[01:58:11] 🔍 Searching web sources...
+[01:58:11] 🌐 Scraping top articles...
+[01:58:11] 🧠 Generating structured research report...
+[01:58:33] 📊 Initial Score: 6.4
+[01:58:33] 📐 Initial Breakdown: clarity=8.5, structure=7.0, depth=5.5, usefulness=6.5
+[01:58:33] 🧪 Evaluator Issues:
+[01:58:33]    • Lacks in-depth analysis of team strategies and player performances.
+[01:58:33]    • Limited context on the significance of the IPL 2026 compared to previous seasons.
+[01:58:33] 
+🔁 Iteration 1
+[01:58:33] 🛠️ Reviewing content and applying improvements...
+[01:58:55] 🧠 Suggested Improvements:
+[01:58:55]    • Enhance the depth of analysis for each team by including specific player statistics and past performance metrics.
+[01:58:55]    • Improve the overall structure by adding a conclusion that summarizes the potential impact of these teams in IPL 2026.
+[01:58:57] 📊 New Score: 7.6
+[01:58:57] 📐 New Breakdown: clarity=8.5, structure=9.0, depth=6.5, usefulness=7.5
+[01:58:57] 🧪 Evaluator Issues:
+[01:58:57]    • Depth of analysis on team strategies is lacking.
+[01:58:57]    • Limited statistical data to support claims about team performance.
+[01:58:57] ✅ Improvement accepted (+1.2)
+[01:58:57] 
+🔁 Iteration 2
+[01:58:57] 🛠️ Reviewing content and applying improvements...
+[01:59:24] 🧠 Suggested Improvements:
+[01:59:24]    • The overview lacks specific details about the teams and their historical performance, which would provide context for the reader.
+[01:59:24]    • The analysis of each team should include recent performance metrics, player statistics, and potential strategies to enhance depth and usefulness.
+[01:59:27] 📊 New Score: 7.3
+[01:59:27] 📐 New Breakdown: clarity=8.5, structure=7.5, depth=6.0, usefulness=7.0
+[01:59:27] 🧪 Evaluator Issues:
+[01:59:27]    • Depth of analysis on team strategies could be improved.
+[01:59:27]    • Some sections lack detailed statistics or player comparisons.
+[01:59:27] ⚠️ No improvement → forcing stronger rewrite...
+[01:59:27] 
+🔁 Iteration 3
+[01:59:27] 🛠️ Reviewing content and applying improvements...
+[02:00:00] 🧠 Suggested Improvements:
+[02:00:00]    • Add more specific statistics and player details to enhance credibility and depth.
+[02:00:00]    • Include insights on team strategies and potential challenges to provide a more comprehensive analysis.
+[02:00:03] 📊 New Score: 8.2
+[02:00:03] 📐 New Breakdown: clarity=8.5, structure=9.0, depth=7.0, usefulness=8.0
+[02:00:03] 🧪 Evaluator Issues:
+[02:00:03]    • Depth could be improved with more statistical analysis or historical context.
+[02:00:03]    • Some sections could benefit from more detailed player performance metrics.
+[02:00:03] ✅ Improvement accepted (+0.6)
+[02:00:03] 🎯 Target score reached → stopping early
+[02:00:03] 
+📈 Final Score: 8.2
+[02:00:03] 🔁 Total Iterations: 3
+[02:00:03] 📄 Generating PDF...
+[02:00:03] 📊 Generating PPT...
+[02:00:06] ✅ Done!
+[18:56:47] 🔍 Searching web sources...
+[18:56:47] 🌐 Scraping top articles...
+[18:56:47] 🧠 Generating structured research report...
+[18:56:47] ❌ Error: unhandled errors in a TaskGroup (1 sub-exception)
+[18:58:56] 🔍 Searching web sources...
+[18:58:56] 🌐 Scraping top articles...
+[18:58:56] 🧠 Generating structured research report...
+[18:59:12] 📊 Initial Score: 7.0
+[18:59:12] 📐 Initial Breakdown: clarity=8.5, structure=7.5, depth=6.0, usefulness=7.0
+[18:59:12] 🧪 Evaluator Issues:
+[18:59:12]    • Lacks detailed analysis or statistics to support claims.
+[18:59:12]    • Limited exploration of emerging teams beyond a few examples.
+[18:59:12] 
+🔁 Iteration 1
+[18:59:12] 🛠️ Reviewing content and applying improvements...
+[18:59:27] 🧠 Suggested Improvements:
+[18:59:27]    • The introduction lacks specific data or examples to support claims about the evolution of the Premier League; adding statistics or notable events would enhance credibility.
+[18:59:27]    • The sections could benefit from a clearer structure, with more detailed analysis of each team's current status and future potential, including recent performance metrics and player statistics.
+[18:59:31] 📊 New Score: 7.3
+[18:59:31] 📐 New Breakdown: clarity=8.5, structure=7.5, depth=6.0, usefulness=7.0
+[18:59:31] 🧪 Evaluator Issues:
+[18:59:31]    • Lacks detailed statistical analysis to support claims.
+[18:59:31]    • Limited exploration of emerging clubs beyond Newcastle United.
+[18:59:31] ✅ Improvement accepted (+0.3)
+[18:59:31] 
+🔁 Iteration 2
+[18:59:31] 🛠️ Reviewing content and applying improvements...
+[18:59:52] 🧠 Suggested Improvements:
+[18:59:52]    • The introduction lacks specific examples and statistics to support claims about the league's transformation.
+[18:59:52]    • The top teams overview section could benefit from more detailed achievements and statistics for each club.
+[18:59:52]    • The factors contributing to success section needs more concrete examples of clubs' youth academies and their impact.
+[18:59:52]    • The outlook for the future should include specific predictions and potential challenges for emerging clubs.
+[18:59:56] 📊 New Score: 7.3
+[18:59:56] 📐 New Breakdown: clarity=8.5, structure=7.5, depth=6.0, usefulness=7.0
+[18:59:56] 🧪 Evaluator Issues:
+[18:59:56]    • Depth of analysis on emerging clubs is lacking.
+[18:59:56]    • Some sections could benefit from more detailed examples or data.
+[18:59:56] ⚠️ No improvement → forcing stronger rewrite...
+[18:59:56] 
+🔁 Iteration 3
+[18:59:56] 🛠️ Reviewing content and applying improvements...
+[19:00:27] 🧠 Suggested Improvements:
+[19:00:27]    • The introduction lacks specific examples and depth regarding the transformative phase of the Premier League. Adding more concrete details about changes in management and player acquisitions would enhance clarity.
+[19:00:27]    • The sections could benefit from a more structured approach, with clearer subheadings and a logical flow that connects the analysis of teams to the factors contributing to their success and future outlook.
+[19:00:27]    • The content should include more quantitative data and specific examples to support claims, particularly in the 'Factors Contributing to Success' and 'Outlook for the Future' sections.
+[19:00:31] 📊 New Score: 7.3
+[19:00:31] 📐 New Breakdown: clarity=8.5, structure=7.5, depth=6.0, usefulness=7.0
+[19:00:31] 🧪 Evaluator Issues:
+[19:00:31]    • Depth of analysis on emerging teams is lacking.
+[19:00:31]    • Some sections could benefit from clearer transitions between ideas.
+[19:00:31] ⚠️ No improvement → forcing stronger rewrite...
+[19:00:31] 
+🔁 Iteration 4
+[19:00:31] 🛠️ Reviewing content and applying improvements...
+[19:01:09] 🧠 Suggested Improvements:
+[19:01:09]    • The introduction lacks a clear thesis statement that encapsulates the main argument of the analysis.
+[19:01:09]    • The sections could benefit from more detailed statistics and examples to support claims, enhancing credibility and depth.
+[19:01:13] 📊 New Score: 8.2
+[19:01:13] 📐 New Breakdown: clarity=8.5, structure=9.0, depth=7.0, usefulness=8.0
+[19:01:13] 🧪 Evaluator Issues:
+[19:01:13]    • Depth could be improved with more statistical analysis or case studies.
+[19:01:13]    • Some sections could benefit from more specific examples or data to support claims.
+[19:01:13] ✅ Improvement accepted (+0.9)
+[19:01:13] 🎯 Target score reached → stopping early
+[19:01:13] 
+📈 Final Score: 8.2
+[19:01:13] 🔁 Total Iterations: 4
+[19:01:13] 📄 Generating PDF...
+[19:01:15] 📊 Generating PPT...
+[19:01:21] ✅ Done!
+[19:07:45] 🔍 Searching web sources...
+[19:07:45] 🌐 Scraping top articles...
+[19:07:45] 🧠 Generating structured research report...
+[19:08:01] 📊 Initial Score: 7.6
+[19:08:01] 📐 Initial Breakdown: clarity=8.5, structure=9.0, depth=6.5, usefulness=7.5
+[19:08:01] 🧪 Evaluator Issues:
+[19:08:01]    • Depth lacks detailed analysis or data to support claims.
+[19:08:01]    • Some sections could benefit from more specific examples or case studies.
+[19:08:01] 
+🔁 Iteration 1
+[19:08:01] 🛠️ Reviewing content and applying improvements...
+[19:08:18] 🧠 Suggested Improvements:
+[19:08:18]    • Expand on the impact of COVID-19 on vaccine development and public perception.
+[19:08:18]    • Provide more specific examples of vaccine technologies and their advantages.
+[19:08:18]    • Include statistics or data to support claims about vaccine uptake and effectiveness.
+[19:08:18]    • Discuss the implications of vaccine hesitancy in more detail, including potential solutions.
+[19:08:21] 📊 New Score: 8.2
+[19:08:21] 📐 New Breakdown: clarity=8.5, structure=9.0, depth=7.0, usefulness=8.0
+[19:08:21] 🧪 Evaluator Issues:
+[19:08:21]    • Depth could be improved with more detailed data or case studies.
+[19:08:21]    • Some sections could benefit from clearer transitions between topics.
+[19:08:21] ✅ Improvement accepted (+0.6)
+[19:08:21] 🎯 Target score reached → stopping early
+[19:08:21] 
+📈 Final Score: 8.2
+[19:08:21] 🔁 Total Iterations: 1
+[19:08:21] 📄 Generating PDF...
+[19:08:22] 📊 Generating PPT...
+[19:08:28] ✅ Done!
+[19:16:10] 🔍 Searching web sources...
+[19:16:10] 🌐 Scraping top articles...
+[19:16:10] 🧠 Generating structured research report...
+[19:16:32] 🔗 Sources captured: 8
+[19:16:35] 📊 Initial Score: 6.3
+[19:16:35] 📐 Initial Breakdown: clarity=8.0, structure=7.5, depth=5.5, usefulness=6.0
+[19:16:35] 🧪 Evaluator Issues:
+[19:16:35]    • Lacks in-depth analysis of team strategies and player performances.
+[19:16:35]    • Limited context on the significance of changes in team structures.
+[19:16:35] 
+🔁 Iteration 1
+[19:16:35] 🛠️ Reviewing content and applying improvements...
+[19:16:54] 🧠 Suggested Improvements:
+[19:16:54]    • The title lacks specificity about the content; it should reflect the analysis of the teams.
+[19:16:54]    • The overview section needs more context about the significance of IPL 2026 and its impact on the cricketing landscape.
+[19:16:54]    • The content on each team should include performance metrics, historical context, and future implications to enhance depth.
+[19:16:54]    • The team comparisons section should provide a clearer analysis of how each team's strengths and weaknesses might affect their performance in the tournament.
+[19:16:57] 📊 New Score: 7.3
+[19:16:57] 📐 New Breakdown: clarity=8.5, structure=7.5, depth=6.0, usefulness=7.0
+[19:16:57] 🧪 Evaluator Issues:
+[19:16:57]    • Depth of analysis on team strategies is lacking.
+[19:16:57]    • Limited exploration of player statistics and historical performance.
+[19:16:57] ✅ Improvement accepted (+1.0)
+[19:16:57] 
+🔁 Iteration 2
+[19:16:57] 🛠️ Reviewing content and applying improvements...
+[19:17:20] 🧠 Suggested Improvements:
+[19:17:20]    • The content lacks a clear structure that guides the reader through the analysis. Adding subheadings and a more logical flow would enhance readability.
+[19:17:20]    • There is insufficient depth in the analysis of each team's strategy and performance. Providing more context, statistics, and expert opinions would make the content more informative and engaging.
+[19:17:24] 📊 New Score: 7.3
+[19:17:24] 📐 New Breakdown: clarity=8.5, structure=7.5, depth=6.0, usefulness=7.0
+[19:17:24] 🧪 Evaluator Issues:
+[19:17:24]    • Depth of analysis on team strategies is lacking.
+[19:17:24]    • Some sections could benefit from more detailed statistics or player performance metrics.
+[19:17:24] ⚠️ No improvement → forcing stronger rewrite...
+[19:17:24] 
+🔁 Iteration 3
+[19:17:24] 🛠️ Reviewing content and applying improvements...
+[19:17:48] 🧠 Suggested Improvements:
+[19:17:48]    • The content lacks a clear structure that separates analysis from factual information; reorganizing sections for clarity would enhance readability.
+[19:17:48]    • The analysis of teams is superficial; providing more in-depth insights into each team's strengths, weaknesses, and strategies would make the content more useful.
+[19:17:52] 📊 New Score: 7.3
+[19:17:52] 📐 New Breakdown: clarity=8.5, structure=7.5, depth=6.0, usefulness=7.0
+[19:17:52] 🧪 Evaluator Issues:
+[19:17:52]    • Depth of analysis on team strategies is lacking.
+[19:17:52]    • Limited exploration of player statistics and historical context.
+[19:17:52] ⚠️ No improvement → forcing stronger rewrite...
+[19:17:52] 
+🔁 Iteration 4
+[19:17:52] 🛠️ Reviewing content and applying improvements...
+[19:18:21] 🧠 Suggested Improvements:
+[19:18:21]    • The overview section lacks specific insights into the implications of the evolving strategies of franchises. Adding examples or statistics could enhance understanding.
+[19:18:21]    • The team comparisons section is too general and does not provide enough detail on how each team's strengths and weaknesses will impact their performance. More specific player statistics and historical context would improve depth.
+[19:18:25] 📊 New Score: 7.1
+[19:18:25] 📐 New Breakdown: clarity=8.5, structure=7.5, depth=6.5, usefulness=7.0
+[19:18:25] 🧪 Evaluator Issues:
+[19:18:25]    • Depth of analysis on team strategies could be improved.
+[19:18:25]    • Some sections lack detailed statistical comparisons.
+[19:18:25] ⚠️ No improvement → forcing stronger rewrite...
+[19:18:25] 
+📈 Final Score: 7.3
+[19:18:25] 🔁 Total Iterations: 4
+[19:18:25] 📄 Generating PDF...
+[19:18:26] 📊 Generating PPT...
+[19:18:31] ✅ Done!

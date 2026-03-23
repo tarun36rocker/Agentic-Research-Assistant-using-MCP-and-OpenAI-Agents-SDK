@@ -22,9 +22,6 @@ env/
 .coverage
 .coverage.*
 
-# Local app outputs
-outputs/
-
 # OS/editor
 .DS_Store
 .vscode/
